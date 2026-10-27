@@ -1,0 +1,57 @@
+[33m9fd9174[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/tests_units[m[33m, [m[1;31morigin/feature/tests_units[m[33m)[m refs/remotes/origin/feature/tests_units@{Thu Sep 10 10:15:33 2026}: update by push
+[33m9fd9174[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/tests_units[m[33m, [m[1;31morigin/feature/tests_units[m[33m)[m refs/heads/feature/tests_units@{Thu Sep 10 10:15:06 2026}: commit: Códigos exemplo de teste para o projeto
+[33m9fd9174[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/tests_units[m[33m, [m[1;31morigin/feature/tests_units[m[33m)[m HEAD@{Thu Sep 10 10:15:06 2026}: commit: Códigos exemplo de teste para o projeto
+[33m0d60c4a[m refs/remotes/origin/feature/tests_units@{Tue Sep 8 10:29:19 2026}: update by push
+[33m0d60c4a[m refs/heads/feature/tests_units@{Tue Sep 8 10:29:02 2026}: commit: Códigos exemplo de teste para o projeto
+[33m0d60c4a[m HEAD@{Tue Sep 8 10:29:02 2026}: commit: Códigos exemplo de teste para o projeto
+[33md10039f[m[33m ([m[1;31morigin/feature/applying-solid[m[33m, [m[1;32mfeature/applying-solid[m[33m)[m refs/heads/feature/tests_units@{Tue Sep 8 10:02:46 2026}: branch: Created from HEAD
+[33md10039f[m[33m ([m[1;31morigin/feature/applying-solid[m[33m, [m[1;32mfeature/applying-solid[m[33m)[m HEAD@{Tue Sep 8 10:02:46 2026}: checkout: moving from feature/applying-solid to feature/tests_units
+[33md10039f[m[33m ([m[1;31morigin/feature/applying-solid[m[33m, [m[1;32mfeature/applying-solid[m[33m)[m refs/remotes/origin/feature/applying-solid@{Tue Sep 8 09:46:09 2026}: update by push
+[33md10039f[m[33m ([m[1;31morigin/feature/applying-solid[m[33m, [m[1;32mfeature/applying-solid[m[33m)[m refs/heads/feature/applying-solid@{Tue Sep 8 09:45:50 2026}: commit: Refatoração: aplicando princípio SOLID
+[33md10039f[m[33m ([m[1;31morigin/feature/applying-solid[m[33m, [m[1;32mfeature/applying-solid[m[33m)[m HEAD@{Tue Sep 8 09:45:50 2026}: commit: Refatoração: aplicando princípio SOLID
+[33m8abb643[m refs/remotes/origin/feature/applying-solid@{Tue Sep 1 10:28:26 2026}: update by push
+[33m8abb643[m refs/heads/feature/applying-solid@{Tue Sep 1 10:28:10 2026}: commit: Refatoração: aplicando princípio O
+[33m8abb643[m HEAD@{Tue Sep 1 10:28:10 2026}: commit: Refatoração: aplicando princípio O
+[33m67c1bd0[m refs/remotes/origin/feature/applying-solid@{Thu Aug 27 10:37:34 2026}: update by push
+[33m67c1bd0[m refs/heads/feature/applying-solid@{Thu Aug 27 10:37:05 2026}: commit: finalização da refatoração para o princípio SRP
+[33m67c1bd0[m HEAD@{Thu Aug 27 10:37:05 2026}: commit: finalização da refatoração para o princípio SRP
+[33m54fc71f[m refs/remotes/origin/feature/applying-solid@{Tue Aug 25 10:31:58 2026}: update by push
+[33m54fc71f[m refs/heads/feature/applying-solid@{Tue Aug 25 10:31:30 2026}: commit: refatoração do código(alien2d_game): aplicando SRP
+[33m54fc71f[m HEAD@{Tue Aug 25 10:31:30 2026}: commit: refatoração do código(alien2d_game): aplicando SRP
+[33meb7c6cb[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/feature/applying-solid@{Tue Aug 25 09:27:45 2026}: branch: Created from HEAD
+[33meb7c6cb[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{Tue Aug 25 09:27:45 2026}: checkout: moving from develop to feature/applying-solid
+[33meb7c6cb[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{Thu Aug 20 10:14:15 2026}: checkout: moving from feature/analise-estatica to develop
+[33me8a7aa9[m HEAD@{Thu Aug 20 10:11:00 2026}: checkout: moving from develop to feature/analise-estatica
+[33meb7c6cb[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/remotes/origin/develop@{Thu Aug 20 10:04:38 2026}: update by push
+[33meb7c6cb[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m refs/heads/develop@{Thu Aug 20 10:04:31 2026}: commit: Ignore sqlite database
+[33meb7c6cb[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{Thu Aug 20 10:04:31 2026}: commit: Ignore sqlite database
+[33mada6069[m refs/heads/develop@{Thu Aug 20 10:03:39 2026}: filter-branch: rewrite
+[33m1c28c99[m[33m ([m[1;35mrefs/stash[m[33m)[m refs/stash@{Thu Aug 20 10:03:39 2026}: WIP on develop: e731baf docs(game2d_alien): adicionando o tipo .sqlite3 no gitignore
+[33mada6069[m HEAD@{Thu Aug 20 10:03:39 2026}: filter-branch: rewrite
+[33me731baf[m HEAD@{Thu Aug 20 10:03:39 2026}: reset: moving to HEAD
+[33me731baf[m refs/heads/develop@{Thu Aug 20 10:01:23 2026}: reset: moving to HEAD~1
+[33me731baf[m HEAD@{Thu Aug 20 10:01:23 2026}: reset: moving to HEAD~1
+[33m7db3bcd[m refs/heads/develop@{Thu Aug 20 10:01:18 2026}: reset: moving to HEAD~1
+[33m7db3bcd[m HEAD@{Thu Aug 20 10:01:18 2026}: reset: moving to HEAD~1
+[33md16f625[m refs/heads/develop@{Thu Aug 20 10:00:07 2026}: commit: fix(game2d_alien): retirando o arquivo grande
+[33md16f625[m HEAD@{Thu Aug 20 10:00:07 2026}: commit: fix(game2d_alien): retirando o arquivo grande
+[33m7db3bcd[m refs/heads/develop@{Thu Aug 20 09:58:14 2026}: commit: Remove large database file and update gitignore
+[33m7db3bcd[m HEAD@{Thu Aug 20 09:58:14 2026}: commit: Remove large database file and update gitignore
+[33me731baf[m refs/heads/develop@{Thu Aug 20 09:56:09 2026}: commit: docs(game2d_alien): adicionando o tipo .sqlite3 no gitignore
+[33me731baf[m HEAD@{Thu Aug 20 09:56:09 2026}: commit: docs(game2d_alien): adicionando o tipo .sqlite3 no gitignore
+[33mb402d53[m refs/heads/develop@{Thu Aug 20 09:53:50 2026}: merge feature/analise-estatica: Fast-forward
+[33mb402d53[m HEAD@{Thu Aug 20 09:53:50 2026}: merge feature/analise-estatica: Fast-forward
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m refs/remotes/origin/develop@{Thu Aug 20 09:53:09 2026}: update by push
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{Thu Aug 20 09:50:17 2026}: checkout: moving from feature/analise-estatica to develop
+[33mb402d53[m HEAD@{Thu Aug 13 10:46:00 2026}: commit: refactor: refatoração do código
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{Thu Aug 13 09:35:49 2026}: checkout: moving from develop to feature/analise-estatica
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m refs/heads/develop@{Thu Aug 13 09:35:12 2026}: branch: Created from HEAD
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{Thu Aug 13 09:35:12 2026}: checkout: moving from main to develop
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m refs/remotes/origin/main@{Tue Aug 11 10:25:04 2026}: update by push
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m refs/heads/main@{Tue Aug 11 10:24:51 2026}: commit: enviando o projeto para o repositório
+[33m5ae8dc7[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{Tue Aug 11 10:24:51 2026}: commit: enviando o projeto para o repositório
+[33m678b523[m refs/remotes/origin/main@{Tue Aug 11 10:23:22 2026}: update by push
+[33m678b523[m refs/heads/main@{Tue Aug 11 10:22:42 2026}: Branch: renamed refs/heads/master to refs/heads/main
+[33m678b523[m HEAD@{Tue Aug 11 10:22:42 2026}: Branch: renamed refs/heads/master to refs/heads/main
+[33m678b523[m refs/heads/main@{Tue Aug 11 10:22:31 2026}: commit (initial): first commit
+[33m678b523[m HEAD@{Tue Aug 11 10:22:31 2026}: commit (initial): first commit
