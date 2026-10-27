@@ -1,5 +1,5 @@
 import pygame
-from bullet import Bullet
+from .bullet import Bullet
 
 class BulletManager:
     """Responsável apenas por criar, atualizar e desenhar os projéteis."""
