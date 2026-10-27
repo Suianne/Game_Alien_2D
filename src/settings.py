@@ -9,7 +9,7 @@ class Settings:
         self.ship_speed = 1.5  # Velocidade da nave
 
         # Configurações dos projéteis
-        self.bullet_speed = 1.0  # Velocidade dos projéteis
+        self.bullet_speed = 3.0  # Velocidade dos projéteis
         self.bullet_width = 3  # Largura dos projéteis
         self.bullet_height = 15  # Altura dos projéteis
         self.bullet_color = (60, 60, 60)  # Cor dos projeteis
